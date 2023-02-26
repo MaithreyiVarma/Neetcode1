@@ -1,0 +1,23 @@
+{
+  "name": "neetcode1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " node server.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/MaithreyiVarma/Neetcode1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaithreyiVarma/Neetcode1/issues"
+  },
+  "homepage": "https://github.com/MaithreyiVarma/Neetcode1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
